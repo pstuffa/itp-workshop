@@ -4,8 +4,7 @@ Instructors: Cheng Xu, Paul Buffa
 
 Dates: June 13th & June 15th 2018
 
-[Part I](https://itp.nyu.edu/camp2018/session24)
-[Part II](https://itp.nyu.edu/camp2018/session25)
+[Part I](https://itp.nyu.edu/camp2018/session24) || [Part II](https://itp.nyu.edu/camp2018/session25)
 
 ## Part I
 
